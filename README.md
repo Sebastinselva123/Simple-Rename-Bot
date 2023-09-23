@@ -18,7 +18,7 @@
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/Simple-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sebastinselva123/Simple-Rename-Bot)
 
 ## BotFather Command
 ```
@@ -31,6 +31,6 @@ view - view current thumbnail
 
 ## Support
 
-● [BOT UPDATES](https://t.me/mkn_bots_updates)
+● [BOT UPDATES]([https://t.me/Tamilan_bots_official])
 
-● [SUPPORT GROUP](https://t.me/mkn_botz_discussion_group)
+● [SUPPORT GROUP]([https://t.me/tamilan_Botz_Support])
